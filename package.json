@@ -1,0 +1,27 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "Learning app",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajithaFernando/mern2.git"
+  },
+  "keywords": [
+    "rajitha"
+  ],
+  "author": "Rajitha Fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajithaFernando/mern2/issues"
+  },
+  "homepage": "https://github.com/RajithaFernando/mern2#readme"
+}
